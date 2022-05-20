@@ -20,4 +20,4 @@ The following approach explains the project lifecycle :
      2. Support Vector Regressor
      3. Random Forest Regressor
      4. Gradient Boosting Regressor
-    
+  * Model Testing : We use test data to get the predicted values and the model with best r2_score and lowest MAE is selected    
