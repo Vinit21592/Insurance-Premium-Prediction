@@ -12,4 +12,12 @@ The dataset is collected from Kaggle.
 Performed various machine learning tasks like Data Pre-processing, Data Visualization, Feature Engineering, Model Building, Model Testing etc. to build a solution that should able to predict the premium of the personal for health insurance.
 
 The following approach explains the project lifecycle :
-  
+  * Data Preprocessing : Exploring the data using pandas, numpy & identifying null values, missing values and outliers present in the dataset.
+  * Data Visualization : Visualize the data through matplotlib, seaborn for finding insights of the variables present the dataset.
+  * Feature Engineering : Cleaning the data to select and transform the most relevant variables from raw data.
+  * Model Building : For model building we split the data into train and test. Then we train our model on different machine learning algorithms like :
+     1. Linear Regression
+     2. Support Vector Regressor
+     3. Random Forest Regressor
+     4. Gradient Boosting Regressor
+    
