@@ -31,4 +31,6 @@ Checkout the webapp by clicking the link below.
 Link : https://insurance-cost-premium.herokuapp.com/
 
 ## Web Interface :
-<img src="Images/Streamlit Insurance App.PNG" height="450">
+<img src="Images/Streamlit Insurance App.PNG" height="450" width="350">
+
+<img src="Images/Insurance app Predict.PNG" height="450" width="350">
