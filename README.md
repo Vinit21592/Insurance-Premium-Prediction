@@ -12,18 +12,18 @@ The dataset is collected from Kaggle.
 Performed various machine learning tasks like Data Pre-processing, Data Visualization, Feature Engineering, Model Building, Model Testing etc. to build a solution that should able to predict the premium of the personal for health insurance.
 
 The following approach explains the project lifecycle :
-  * Data Preprocessing : Exploring the data using pandas, numpy & identifying null values, missing values and outliers present in the dataset.
-  * Data Visualization : Visualize the data through matplotlib, seaborn for finding insights of the variables present the dataset.
-  * Feature Engineering : Cleaning the data to select and transform the most relevant variables from raw data.
-  * Model Building : For model building we split the data into train and test. Then we train our model on different machine learning algorithms like :
+  * **Data Preprocessing** : Exploring the data using pandas, numpy & identifying null values, missing values and outliers present in the dataset.
+  * **Data Visualization** : Visualize the data through matplotlib, seaborn for finding insights of the variables present the dataset.
+  * **Feature Engineering** : Cleaning the data to select and transform the most relevant variables from raw data.
+  * **Model Building** : For model building we split the data into train and test. Then we train our model on different machine learning algorithms like :
      1. Linear Regression
      2. Support Vector Regressor
      3. Random Forest Regressor
      4. Gradient Boosting Regressor
-  * Model Testing : We use test data to get the predicted values and the model with best r2_score and lowest MAE is selected. The best model is saved for predictions.
-  * Tuning : Performed Hyperparameter tuning using RandomizedSearchCV and GridSearchCV to get the best parameters.
-  * Webpage : A web application is created for the user to easily enter the necessary inputs and get the predictions.
-  * Deployment : The project is deployed on Heroku Platform.
+  * **Model Testing** : We use test data to get the predicted values and the model with best r2_score and lowest MAE is selected. The best model is saved for predictions.
+  * **Tuning** : Performed Hyperparameter tuning using RandomizedSearchCV and GridSearchCV to get the best parameters.
+  * **Webpage** : A web application is created for the user to easily enter the necessary inputs and get the predictions.
+  * **Deployment** : The project is deployed on Heroku Platform.
 
 ## Web Deployment :
 Checkout the webapp by clicking the link below.
