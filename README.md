@@ -24,3 +24,8 @@ The following approach explains the project lifecycle :
   * Tuning : Performed Hyperparameter tuning using RandomizedSearchCV and GridSearchCV to get the best parameters.
   * Webpage : A web application is created for the user to easily enter the necessary inputs and get the predictions.
   * Deployment : The project is deployed on Heroku Platform.
+
+## Web Deployment :
+Checkout the webapp by clicking the link below.
+
+Link : https://insurance-cost-premium.herokuapp.com/
