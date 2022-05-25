@@ -36,4 +36,16 @@ Link : https://insurance-cost-premium.herokuapp.com/
 <img src="Images/Insurance app Predict.PNG" height="450" width="350">
 
 ## High Level Design :
-URL : 
+URL : https://drive.google.com/file/d/1s23GxznU3nmaEszM5xOaLoXA6r8oxQ5V/view?usp=sharing
+
+## Low Level Design :
+URL : https://drive.google.com/file/d/17rymHz_CQvBTTz8YjZsZZg8gb1rUujZ3/view?usp=sharing
+
+## Architecture Design :
+URL : https://drive.google.com/file/d/1M_NKvlCdBYNWoXuyh_aM-2hmfhKcArzr/view?usp=sharing
+
+## Wireframe Document :
+URL : https://drive.google.com/file/d/1vYXtaEoS5auG6WFQUVmcKb-YAMbCGqMi/view?usp=sharing
+
+## Detailed Project Report :
+URL : https://drive.google.com/file/d/1zpEAMmxgw6QxaKruZFo6ulPSRUwJmzzx/view?usp=sharing
