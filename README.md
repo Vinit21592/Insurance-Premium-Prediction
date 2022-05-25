@@ -56,4 +56,4 @@ URL : https://drive.google.com/file/d/1zpEAMmxgw6QxaKruZFo6ulPSRUwJmzzx/view?usp
 * Heroku is used for Model Deployment.
 
 ## Author :
-**Vinit Arun Londhe** (LinkedIn: https://www.linkedin.com/in/vinit-londhe21/)
+**Vinit Arun Londhe** (LinkedIn: https://www.linkedin.com/in/vinit-londhe21)
