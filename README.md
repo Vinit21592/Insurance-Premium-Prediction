@@ -49,3 +49,8 @@ URL : https://drive.google.com/file/d/1vYXtaEoS5auG6WFQUVmcKb-YAMbCGqMi/view?usp
 
 ## Detailed Project Report :
 URL : https://drive.google.com/file/d/1zpEAMmxgw6QxaKruZFo6ulPSRUwJmzzx/view?usp=sharing
+
+## Tools and Technologies Used :
+* Jupyter Notebook is used as IDE.
+* For creating webapp Streamlit framework is used.
+* Heroku is used for Model Deployment.
