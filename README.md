@@ -50,7 +50,7 @@ URL : https://drive.google.com/file/d/1vYXtaEoS5auG6WFQUVmcKb-YAMbCGqMi/view?usp
 ## Detailed Project Report :
 URL : https://drive.google.com/file/d/1zpEAMmxgw6QxaKruZFo6ulPSRUwJmzzx/view?usp=sharing
 
-## Demo Video :
+## Project Demo Video :
 URL : https://drive.google.com/file/d/1gqNyip1G6O5M1qIm64INl9JoDxVinL6k/view?usp=sharing
 
 ## Tools and Technologies Used :
